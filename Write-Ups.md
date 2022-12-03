@@ -16,3 +16,8 @@ Thoughts about each day's set of problems
 - Honestly kinda my fault cuz I got distracted and took the slowest methods possible
 - **`Rank: 277 / 195`**
 - **`Time: 00:01:20 / 00:02:08`**
+
+## Day 3
+- Did this at 3 in the morning don't judge
+- **`Rank: 48121 / 43833`**
+- **`Time: 06:40:31 / 06:56:40`**
