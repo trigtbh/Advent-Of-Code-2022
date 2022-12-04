@@ -21,3 +21,8 @@ Thoughts about each day's set of problems
 - Did this at 3 in the morning don't judge
 - **`Rank: 48121 / 43833`**
 - **`Time: 06:40:31 / 06:56:40`**
+
+## Day 4
+- Embarrassing that for a set this easy, it took me this long
+- **`Rank: 299 / 363`**
+- **`Time: 00:02:53 / 00:04:47`**
