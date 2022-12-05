@@ -26,3 +26,9 @@ Thoughts about each day's set of problems
 - Embarrassing that for a set this easy, it took me this long
 - **`Rank: 299 / 363`**
 - **`Time: 00:02:53 / 00:04:47`**
+
+## Day 5
+- I did so bad on this day lmaoooo
+- Input parsing is *not fun*
+- **`Rank: 657 / 844`**
+- **`Time: 00:11:16 / 00:14:46`**
