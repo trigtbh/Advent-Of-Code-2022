@@ -32,3 +32,10 @@ Thoughts about each day's set of problems
 - Input parsing is *not fun*
 - **`Rank: 657 / 844`**
 - **`Time: 00:11:16 / 00:14:46`**
+
+## Day 6
+- Started 20 minutes late smh
+- Wayyyyyyy too easy for a day 6 problem imo
+- **`Rank: 12489 / 11084`**
+- **`Time: 00:23:39 / 00:24:01`**
+- (note the **21 second difference** between parts 1 and 2)
