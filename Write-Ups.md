@@ -39,3 +39,12 @@ Thoughts about each day's set of problems
 - **`Rank: 12489 / 11084`**
 - **`Time: 00:23:39 / 00:24:01`**
 - (note the **21 second difference** between parts 1 and 2)
+
+## Day 7
+- I call this one the Great AoC Tragedy
+- Got distracted as soon as part 1 started
+- Misread part 2 a total of 3 times
+- And ended up with the ugliest solution known to man
+- Still managed to get top 500...? Not like it means much
+- **`Rank: 312 / 464`**
+- **`Time: 00:15:18 / 00:21:41`**
