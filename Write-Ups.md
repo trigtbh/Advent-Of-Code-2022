@@ -55,3 +55,11 @@ Thoughts about each day's set of problems
 - Part 1 is 100% pep8 compliant (trust me) (don't look into it) (this is a joke line 17 is 240 characters long)
 - **Rank: `7654 / 7430`**
 - **Time: `00:40:45 / 01:08:35`**
+
+## Day 9
+- Note to self:
+- Next time
+- Read the ***entire*** problem description
+- This is the closest I've ever gotten to scoring for either part so I'm super disappointed :D
+- **Rank: `103 / 1709`**
+- **Time: `00:07:34 / 00:34:11`**
