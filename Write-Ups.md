@@ -63,3 +63,10 @@ Thoughts about each day's set of problems
 - This is the closest I've ever gotten to scoring for either part so I'm super disappointed :D
 - **Rank: `103 / 1709`**
 - **Time: `00:07:34 / 00:34:11`**
+
+## Day 10
+- Day 10 wooooooooooo
+- Boilerplate boilerplate boilerplate boilerplate boilerplate
+- (Had to take an unexpected pizza break in the middle) 
+- **Rank: `719 / 2864`**
+- **Time: `00:08:57 / 00:34:06`**
