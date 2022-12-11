@@ -70,3 +70,9 @@ Thoughts about each day's set of problems
 - (Had to take an unexpected pizza break in the middle) 
 - **Rank: `719 / 2864`**
 - **Time: `00:08:57 / 00:34:06`**
+
+## Day 11
+- Pain
+- My brain is 100% fried after completing this
+- **Rank: `411 / 3665`**
+- **Time: `00:18:47 / 01:16:21`**
