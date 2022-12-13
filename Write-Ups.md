@@ -76,3 +76,9 @@ Thoughts about each day's set of problems
 - My brain is 100% fried after completing this
 - **Rank: `411 / 3665`**
 - **Time: `00:18:47 / 01:16:21`**
+
+## Day 12
+- Abusing how stacks and queues are built to completely bypass their functionality
+- :D
+- **Rank: `22139 / 21182`**
+- **Time: `10:57:22 / 11:04:35`**
