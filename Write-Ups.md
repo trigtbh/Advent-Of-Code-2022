@@ -82,3 +82,9 @@ Thoughts about each day's set of problems
 - :D
 - **Rank: `22139 / 21182`**
 - **Time: `10:57:22 / 11:04:35`**
+
+## Day 13
+- Using `eval()` to completely bypass all of the complex parsing of part 2
+- Somehow I got lucky (or unlucky?) enough that at one point, my part 1 solution worked for the *sample* input but not the *actual* input
+- **Rank: `17559 / 17102`**
+- **Time: `8:22:04 / 9:00:44`**
